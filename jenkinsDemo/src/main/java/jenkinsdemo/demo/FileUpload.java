@@ -1,3 +1,4 @@
+/*
 package jenkinsdemo.demo;
 
 import jenkinsdemo.demo.Constants;
@@ -8,12 +9,14 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+*/
 /**
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- */
+ *//*
+
 public class FileUpload {
     File file;
     DataOutputStream out;
@@ -121,3 +124,4 @@ public class FileUpload {
 
 
 }
+*/
