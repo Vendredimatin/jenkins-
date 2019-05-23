@@ -1,3 +1,4 @@
+/*
 package jenkinsdemo.demo.server;
 
 import jenkinsdemo.demo.Constants;
@@ -10,12 +11,14 @@ import java.io.File;
 import java.io.IOException;
 import java.net.Socket;
 
+*/
 /**
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- */
+ *//*
+
 public class SocketTask implements Runnable{
     private Socket socket;
 
@@ -86,3 +89,4 @@ public class SocketTask implements Runnable{
 
     }
 }
+*/
