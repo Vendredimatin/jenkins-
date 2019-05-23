@@ -9,9 +9,9 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletRequest;
 @RestController
 @SpringBootApplication
-@RequestMapping("admin/")
+@RequestMapping("/")
 public class DemoApplication {
-    @RequestMapping("home")
+    @RequestMapping("/")
     String home(HttpServletRequest request) {
         String userName = "Jef";
         int count = 101;
