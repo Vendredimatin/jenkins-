@@ -1,13 +1,16 @@
+/*
 package jenkinsdemo.demo.redis;
 
 import java.io.Serializable;
 
+*/
 /**
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- */
+ *//*
+
 
 public class User implements Serializable {
 
@@ -41,3 +44,4 @@ public class User implements Serializable {
         this.age = age;
     }
 }
+*/
