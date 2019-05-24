@@ -1,4 +1,3 @@
-/*
 package jenkinsdemo.demo.server;
 
 import jenkinsdemo.demo.Constants;
@@ -14,13 +13,12 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ThreadPoolExecutor;
 
-*/
-/**
+/*
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- *//*
+ **/
 
 public class SocketServer {
     private ExecutorService executorService;
@@ -60,4 +58,3 @@ public class SocketServer {
     }
 
 }
-*/

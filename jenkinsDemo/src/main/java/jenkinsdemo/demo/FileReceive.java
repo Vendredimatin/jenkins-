@@ -1,15 +1,13 @@
-/*
 package jenkinsdemo.demo;
 
 import java.io.*;
 
-*/
-/**
+/*
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- *//*
+ **/
 
 public class FileReceive {
     File file;
@@ -99,4 +97,3 @@ public class FileReceive {
         }
     }
 }
-*/

@@ -1,4 +1,3 @@
-/*
 package jenkinsdemo.demo;
 
 import java.io.File;
@@ -8,13 +7,12 @@ import java.security.MessageDigest;
 import java.util.ArrayList;
 import java.util.List;
 
-*/
-/**
+/*
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- *//*
+ **/
 
 public class FileHelper {
     public static boolean fileExists(String originalMD5, File file){
@@ -59,4 +57,3 @@ public class FileHelper {
         return blocks;
     }
 }
-*/

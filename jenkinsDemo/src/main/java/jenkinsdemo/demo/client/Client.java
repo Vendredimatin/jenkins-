@@ -1,4 +1,3 @@
-/*
 package jenkinsdemo.demo.client;
 
 import jenkinsdemo.demo.Constants;
@@ -7,13 +6,12 @@ import jenkinsdemo.demo.FileUpload;
 import java.io.*;
 import java.net.Socket;
 
-*/
-/**
+/*
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- *//*
+ **/
 
 public class Client {
     public static void main(String[] args) {
@@ -27,4 +25,3 @@ public class Client {
 
 
 }
-*/

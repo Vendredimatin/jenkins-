@@ -1,4 +1,3 @@
-/*
 package jenkinsdemo.demo.client;
 
 import jenkinsdemo.demo.Constants;
@@ -10,13 +9,12 @@ import java.io.File;
 import java.io.IOException;
 import java.net.Socket;
 
-*/
-/**
+/*
  * @Author：Liu hanyi
  * @Description：
  * @Date Created in ${Time} ${Date}
  * @Modified By:
- *//*
+**/
 
 public class ClientTask implements Runnable {
     private String fileName;
@@ -76,4 +74,3 @@ public class ClientTask implements Runnable {
         return response;
     }
 }
-*/
